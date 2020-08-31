@@ -14,7 +14,7 @@ This is a simple to_do app that helps you plan how to spent your day productivel
 
 A few recommended resources to get you started with Flutter app development:
 
-- [You can check out The App Brewery's Complete Flutter Development Bootcamp, at](www.appbrewery.co)
+- You can check out The App Brewery's Complete Flutter Development Bootcamp, at [this link to the appbrewery website](www.appbrewery.co)
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
